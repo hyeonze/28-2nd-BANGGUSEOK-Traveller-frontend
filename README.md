@@ -50,7 +50,7 @@ Collabo Tools
 
 - 메인 페이지 (안현재)
 
-<img width="1740" alt="스크린샷 2022-01-23 오후 11 04 21" src="https://user-images.githubusercontent.com/62171131/150682566-56d1a1a4-4385-4c06-b6bb-45aaca092601.png">
+![스크린샷 2022-01-23 오후 11 04 1](https://user-images.githubusercontent.com/62171131/150684566-c5011761-4fbb-4fec-a1d3-d5bdefb99427.png)
 
 ```
 - 상단 랜덤피드와 하단 리스트들을 표시하는 컴포넌트.
