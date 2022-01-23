@@ -114,6 +114,7 @@ body - 안현재
 8. Navigation Bar (엄성용)
 
 9. TripCard (안현재)
+
 ![스크린샷 2022-01-23 오후 11 05](https://user-images.githubusercontent.com/62171131/150682697-cb7786bb-e5ca-42ca-bd66-a4f9cb00e954.png)
 
 ```
