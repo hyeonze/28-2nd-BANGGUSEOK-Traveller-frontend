@@ -49,7 +49,9 @@ Collabo Tools
 ## Contents
 
 - 메인 페이지 (안현재)
-![Uploading 스크린샷 2022-01-23 오후 11.04.21.png…]()
+
+<img width="1740" alt="스크린샷 2022-01-23 오후 11 04 21" src="https://user-images.githubusercontent.com/62171131/150682566-56d1a1a4-4385-4c06-b6bb-45aaca092601.png">
+
 ```
 - 상단 랜덤피드와 하단 리스트들을 표시하는 컴포넌트.
 - 랜덤피드는 공통컴포넌트(RatingCircle) 활용해 점수 시각화.
@@ -112,6 +114,8 @@ body - 안현재
 8. Navigation Bar (엄성용)
 
 9. TripCard (안현재)
+![스크린샷 2022-01-23 오후 11 05](https://user-images.githubusercontent.com/62171131/150682697-cb7786bb-e5ca-42ca-bd66-a4f9cb00e954.png)
+
 ```
 - 하나의 피드를 받아 정보를 표시. 메인, 트립리스트, 트립디테일 등에서 활용됨.
 ```
