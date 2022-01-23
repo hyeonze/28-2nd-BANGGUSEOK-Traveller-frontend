@@ -59,6 +59,7 @@ Collabo Tools
 ```
 
 - 상세 페이지 (안현재, 엄성용)
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62171131/150683729-318a3d95-4621-4305-99bd-49ab0727db16.gif)
 
 ```
