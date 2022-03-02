@@ -6,6 +6,12 @@
 
 당신의 환상적이었던 여행의 순간을 담은 사진을 모두에게 보여주세요. 위코더들의 투표를 통해 최고의 여행지를 선정해드립니다!
 
+Awwwards를 모티브로한 여행지사진 투표 및 추천 사이트(Front-end 3명 Back-end 2명 팀 Project)
+Main Page와 Trip Detail Page 역임
+투표 데이터를 백앤드 API로 전송하고, 결과를 반영하는 기능 구현
+공통 컴포넌트의 선제적 구현을 통한 팀 시너지 창출
+styled-component 사용된 파일의 분리로 가독성 및 유지보수성 증대
+
 Reference : [Awwwards](https://www.awwwards.com/)
 
 ## Links
