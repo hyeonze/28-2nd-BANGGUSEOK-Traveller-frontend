@@ -7,7 +7,7 @@
 당신의 환상적이었던 여행의 순간을 담은 사진을 모두에게 보여주세요. 위코더들의 투표를 통해 최고의 여행지를 선정해드립니다!
 
 ![스크린샷 2022-01-23 오후 11 04 1](https://user-images.githubusercontent.com/62171131/150684566-c5011761-4fbb-4fec-a1d3-d5bdefb99427.png)
-[&#9658;전체기능 시연영상](https://www.youtube.com/watch?v=o_FYp6VgCoo)
+[&#9658;전체기능 시연영상 링크](https://www.youtube.com/watch?v=o_FYp6VgCoo)
 
 ## 개발기간 (총 11일)
 
